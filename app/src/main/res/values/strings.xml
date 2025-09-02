@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Air Hockey Game</string>
+    <string name="splash_screen">SplashScreen</string>
+
+</resources>
